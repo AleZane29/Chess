@@ -1,2 +1,3 @@
 # Chess
-Angular project for play chess and derivate
+
+Angular project for play chess and derivate.
